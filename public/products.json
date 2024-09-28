@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "rating": 4.5,
+    "stock": 120,
+    "description": "Noise-cancelling over-ear headphones with Bluetooth connectivity.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart LED TV 50 inch",
+    "category": "Electronics",
+    "price": 399.99,
+    "rating": 4.7,
+    "stock": 45,
+    "description": "50-inch 4K UHD smart TV with built-in streaming apps.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fitness Tracker Watch",
+    "category": "Wearables",
+    "price": 29.99,
+    "rating": 4.2,
+    "stock": 200,
+    "description": "Waterproof fitness tracker with heart rate monitor and GPS.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop 15 inch",
+    "category": "Computers",
+    "price": 1199.99,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "High-performance gaming laptop with 16GB RAM and RTX graphics card.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 49.99,
+    "rating": 4.3,
+    "stock": 150,
+    "description": "Compact wireless earbuds with touch control and long battery life.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "name": "4-Slice Toaster",
+    "category": "Home Appliances",
+    "price": 39.99,
+    "rating": 4.6,
+    "stock": 80,
+    "description": "Stainless steel toaster with multiple browning settings.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Espresso Coffee Maker",
+    "category": "Home Appliances",
+    "price": 89.99,
+    "rating": 4.7,
+    "stock": 60,
+    "description": "Programmable espresso machine with milk frother.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Portable Power Bank",
+    "category": "Accessories",
+    "price": 19.99,
+    "rating": 4.4,
+    "stock": 300,
+    "description": "10000mAh portable charger with dual USB ports.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Men's Running Shoes",
+    "category": "Footwear",
+    "price": 74.99,
+    "rating": 4.5,
+    "stock": 120,
+    "description": "Lightweight and breathable running shoes for men.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Women's Yoga Pants",
+    "category": "Clothing",
+    "price": 24.99,
+    "rating": 4.3,
+    "stock": 200,
+    "description": "High-waisted yoga pants with moisture-wicking fabric.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 29.99,
+    "rating": 4.2,
+    "stock": 100,
+    "description": "Genuine leather bifold wallet with RFID protection.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Digital Camera",
+    "category": "Electronics",
+    "price": 299.99,
+    "rating": 4.6,
+    "stock": 40,
+    "description": "Compact digital camera with 20MP sensor and 4K video recording.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.99,
+    "rating": 4.4,
+    "stock": 140,
+    "description": "Portable Bluetooth speaker with deep bass and water-resistant design.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "price": 14.99,
+    "rating": 4.7,
+    "stock": 250,
+    "description": "Insulated water bottle keeps drinks cold for 24 hours.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Wireless Mouse",
+    "category": "Computers",
+    "price": 19.99,
+    "rating": 4.5,
+    "stock": 150,
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Air Fryer",
+    "category": "Home Appliances",
+    "price": 79.99,
+    "rating": 4.8,
+    "stock": 70,
+    "description": "Digital air fryer with adjustable temperature and timer.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Smartphone Stand",
+    "category": "Accessories",
+    "price": 9.99,
+    "rating": 4.1,
+    "stock": 300,
+    "description": "Adjustable smartphone stand for desk or bedside use.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Backpack",
+    "category": "Bags",
+    "price": 49.99,
+    "rating": 4.6,
+    "stock": 90,
+    "description": "Water-resistant backpack with laptop compartment.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Men's Casual Jacket",
+    "category": "Clothing",
+    "price": 89.99,
+    "rating": 4.4,
+    "stock": 60,
+    "description": "Stylish men's jacket with a comfortable fit and multiple pockets.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Women's Handbag",
+    "category": "Accessories",
+    "price": 59.99,
+    "rating": 4.5,
+    "stock": 80,
+    "description": "Leather handbag with multiple compartments and zipper closure.",
+    "img": "/photos/debagni-sarkhel-QgGi96m12ec-unsplash.jpg"
+  }
+]

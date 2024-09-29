@@ -11,7 +11,15 @@ onMounted(() => {
 // function to limit the description to 10 words
 const truncateDescription = (description) => {
   const words = description.split(" ");
-  return words.length > 1 ? words.slice(0, 1).join(" ") + "..." : description;
+  return words.length > 2 ? words.slice(0, 2).join(" ") + "..." : description;
+};
+
+// Store visibility states for each product
+const showFullDescription = ref({});
+
+// Toggle description visibility
+const toggleDescription = (id) => {
+  showFullDescription.value[id] = !showFullDescription.value[id];
 };
 </script>
 
@@ -35,8 +43,15 @@ const truncateDescription = (description) => {
         <h3 class="my-2 font-medium text-gray-900 text-[18px]">
           {{ product.name }}
         </h3>
-        <p class="text-gray-700">
-          {{ truncateDescription(product.description) }}
+        <p class="text-gray-700 flex flex-col items-start">
+          {{
+            showFullDescription[product.id]
+              ? product.description
+              : truncateDescription(product.description)
+          }}
+          <button @click="toggleDescription(product.id)" class="text-blue-600">
+            {{ showFullDescription[product.id] ? "Show less" : "Show more" }}
+          </button>
         </p>
         <div class="">
           <h2 class="mt-3 text-[20px] font-semibold">{{ product.price }}$</h2>

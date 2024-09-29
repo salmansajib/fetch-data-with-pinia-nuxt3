@@ -5,7 +5,7 @@ export const useProductStore = defineStore("products", () => {
 
   const fetchProducts = async () => {
     try {
-      const { data } = await useFetch("/products.json");
+      const { data } = await useFetch("/data/products.json");
       products.value = data.value;
     } catch (error) {
       console.error("Failed to fetch products:", error);

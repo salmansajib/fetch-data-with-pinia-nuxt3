@@ -8,7 +8,7 @@ onMounted(() => {
   productStore.fetchProducts();
 });
 
-// function to limit the description to 10 words
+// function to limit the description to a specific words
 const truncateDescription = (description) => {
   const words = description.split(" ");
   return words.length > 2 ? words.slice(0, 2).join(" ") + "..." : description;
